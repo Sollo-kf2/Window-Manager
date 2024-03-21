@@ -1,4 +1,4 @@
-# WindowManager Class
+# Window Manager Class
 
 The `WindowManager` class is an open-source Python utility for managing and manipulating windows in the Windows operating system. It provides a wide range of useful functions for interacting with windows, such as retrieving window information, setting window styles, and getting process paths associated with windows. This README provides comprehensive documentation on how to use the `WindowManager` class effectively.
 
